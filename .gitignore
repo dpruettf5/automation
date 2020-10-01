@@ -1,0 +1,4 @@
+*.txt
+*tfvars*
+terraform.tfstate*
+*.dan
